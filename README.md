@@ -13,3 +13,4 @@
 ### Salvando alterações no Git
 * git branch
 * git checkout
+* criar nova branch chamada testing
